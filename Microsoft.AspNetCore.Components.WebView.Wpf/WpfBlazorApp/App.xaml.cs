@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace MyWpfBlazorApp
+namespace WpfBlazorApp
 {
     /// <summary>
     /// Interaction logic for App.xaml

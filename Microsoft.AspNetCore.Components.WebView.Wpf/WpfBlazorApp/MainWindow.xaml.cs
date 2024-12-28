@@ -10,7 +10,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MyWpfBlazorApp
+namespace WpfBlazorApp
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

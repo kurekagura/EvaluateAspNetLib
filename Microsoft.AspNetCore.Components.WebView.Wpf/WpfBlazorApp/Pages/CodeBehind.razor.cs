@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 
-namespace MyWpfBlazorApp.Pages;
+namespace WpfBlazorApp.Pages;
 
 public partial class CodeBehind : ComponentBase
 {
